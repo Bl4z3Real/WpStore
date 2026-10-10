@@ -1,0 +1,18 @@
+{
+"apps": [
+{
+"id": "wptube",
+"name": "WpTube",
+"publisher": "WP",
+"description": "Keep up with your favorite YouTube channels and access the world’s videos anywhere with the unofficial YouTube app for WP Android Phones.",
+"category": "video",
+"version": "1.0",
+"size": "5 MB",
+"color": "#E53935",
+"imageUrl": "https://github.com/Bl4z3Real/metrodroidtube/raw/refs/heads/main/app/src/main/res/drawable-nodpi/ic_launcher.png",
+"apkUrl": "https://github.com/Bl4z3Real/WpStore-apks/raw/refs/heads/main/app-debug.apk",
+"featured": true,
+"new": true
+}
+]
+}
