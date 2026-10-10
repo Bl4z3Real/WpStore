@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {"id": "whatsapp", "name": "WhatsApp Messenger", "publisher": "WhatsApp LLC", "description": "Messaging and calls over the internet.", "category": "social", "packageName": "com.whatsapp", "price": "free", "color": "#25A244", "featured": true},
+    {"id": "telegram", "name": "Telegram", "publisher": "Telegram FZ-LLC", "description": "Cloud-based messaging with channels, groups and bots.", "category": "social", "packageName": "org.telegram.messenger", "price": "free", "color": "#1BA1E2", "featured": true, "new": true},
+    {"id": "signal", "name": "Signal", "publisher": "Signal Foundation", "description": "Private messenger with end-to-end encryption.", "category": "social", "packageName": "org.thoughtcrime.securesms", "price": "free", "color": "#3A76F0"},
+    {"id": "spotify", "name": "Spotify", "publisher": "Spotify AB", "description": "Music and podcasts.", "category": "music + video", "packageName": "com.spotify.music", "price": "free", "color": "#1DB954", "featured": true},
+    {"id": "vlc", "name": "VLC", "publisher": "VideoLAN", "description": "Open source media player for almost any format.", "category": "music + video", "packageName": "org.videolan.vlc", "price": "free", "color": "#F09609", "new": true},
+    {"id": "firefox", "name": "Firefox", "publisher": "Mozilla", "description": "Fast, private web browser.", "category": "tools + productivity", "packageName": "org.mozilla.firefox", "price": "free", "color": "#E66000", "featured": true},
+    {"id": "maps", "name": "Google Maps", "publisher": "Google LLC", "description": "Maps, navigation and transit.", "category": "travel + navigation", "packageName": "com.google.android.apps.maps", "price": "free", "color": "#4285F4"},
+    {"id": "duolingo", "name": "Duolingo", "publisher": "Duolingo", "description": "Learn languages with short lessons.", "category": "kids + family", "packageName": "com.duolingo", "price": "free", "color": "#58CC02", "new": true},
+    {"id": "photoshop-express", "name": "Adobe Photoshop Express", "publisher": "Adobe", "description": "Photo editing with filters and quick fixes.", "category": "lifestyle", "packageName": "com.adobe.psmobile", "price": "free", "color": "#2E4BE0"},
+    {"id": "minecraft", "name": "Minecraft", "publisher": "Mojang", "description": "Build, explore and survive.", "category": "games", "packageName": "com.mojang.minecraftpe", "price": "paid", "color": "#6B8E23", "featured": true}
+  ]
+}
